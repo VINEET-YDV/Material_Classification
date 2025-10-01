@@ -1,0 +1,5 @@
+timestamp,image_name,predicted_class,confidence,flag
+2025-10-01 21:53:40,pexels-catherinesheila-2409022.jpg,metal,0.9385,
+2025-10-01 21:53:42,pexels-eye4dtail-324557.jpg,plastic,0.9946,
+2025-10-01 21:53:44,pexels-magda-ehlers-pexels-2547565.jpg,plastic,0.9850,
+2025-10-01 21:53:46,recycle-papers-from-boxes.jpg,cardboard,0.8099,

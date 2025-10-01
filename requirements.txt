@@ -1,0 +1,16 @@
+# Core ML Libraries
+torch
+torchvision
+onnx
+onnxruntime
+
+# Data & Plotting
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Image Handling
+Pillow
+opencv-python
